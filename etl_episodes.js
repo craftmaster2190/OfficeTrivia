@@ -111,6 +111,11 @@ async function main() {
       })
   );
 
+  await writeFile(
+    "office_json/episodes_concat.json",
+    JSON.stringify(all, null, 4)
+  );
+
   console.log("Done", all[Math.floor(all.length * Math.random())]);
 }
 
