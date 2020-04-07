@@ -1,0 +1,526 @@
+{
+    "season": 7,
+    "title": "Goodbye, Michael",
+    "episode": "22",
+    "episodes": [
+        22
+    ],
+    "episodeDetails": {
+        "sections": [
+            {
+                "title": "Goodbye, Michael",
+                "level": 1,
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "text": "\"Goodbye, Michael\" is the twenty-second episode of the seventh season of The Office and the 148th episode overall. It was written by Greg Daniels and directed by Paul Feig. It originally aired in the United States on April 28, 2011. It was viewed by 8.42 million people. The episode is the final episode to feature Michael Scott as the series's main character, not returning until Finale at the end of Season 9."
+                    }
+                ],
+                "images": [
+                    {
+                        "src": "https://vignette.wikia.nocookie.net/theoffice/images/5/5f/Pamhugsmichael.jpg/revision/latest/scale-to-width-down/220?cb=20150708223134",
+                        "caption": ""
+                    }
+                ]
+            },
+            {
+                "title": "Summary",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "text": "﻿It's Michael's last day at the office, at least he knows it is. The rest of the office is under the impression that his last day will be the day after, so Michael tries to get out all of his goodbyes that day before he heads to the airport.﻿ Michael talks to and/or gives gifts to every member of the office before he leaves. He first talks to Phyllis, Andy, and Stanley. Michael gives a chattering teeth gag gift to Phyllis, telling her to voice her opinion more often. Michael gives a mini felt pool table to Stanley, but doesn't include balls."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Finally, to boost Andy's confidence, Michael gives him his ten largest clients, to which Andy responds that he will not be able to keep them all. To Darryl, Michael bestows his unfinished copy of 'Somehow I Manage', a guide to managing that Michael himself wrote (this alludes back to 'Happy Hour' in season 6). Michael gives Kevin a caricature of Kevin as a pig drooling over a pizza. Michael then rips it up, telling Kevin not to be a caricature. Michael gives Oscar a self-made scarecrow. Michael talks to Angela about her fiancé, the state senator. In every photo of Angela and Robert there is also Robert's aide, which provides more evidence to Oscar that Robert is in fact homosexual."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Michael begrudgingly talks to Toby, even saying that he will talk to Toby's brother Rory. Michael leaves Kelly alone, which she claims is the greatest gift he could give her. To Ryan, Michael gives his St. Pauli Girl neon beer sign. Michael writes a letter of recommendation for Dwight, bringing Dwight close to tears. Dwight also plays paintball with Michael. Michael talks to Creed, Gabe, and Meredith. Michael tells Creed not to fear death, for Gabe not to fear dying alone, and for Meredith not to fear dying drunk in a ditch. Michael claims that he is proud he never slept with Meredith, and resists when she says she would do it with him now. Michael talks to David Wallace, revealing his intentions of leaving the company to his former boss. David tries to talk Michael out of leaving, causing Michael to almost rethink his decision."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Michael has a very personal conversation with Erin, who he has become a father figure to. Michael gives her advice on her dating life and search for love. He tells her that she will know when the right guy comes around. He also tells her to call him anytime if she needs advice. Michael says his final goodbye to the group during his last conference room meeting. However, he doesn't reveal that it is his real last goodbye, so he uses one his characters, Ping, to say goodbye to the office. Jim realizes what is happening and asks to talk to Michael in private. Michael reveals that he is leaving in a few minutes. Jim promises not to tell anyone that he is leaving. Jim expresses his true feelings for Michael, telling him that he turned out to be a great boss. With this goodbye, Michael leaves the office, but not before taking the almost finished mittens that Phyllis made for him. Pam is the only person Michael was not able to say goodbye to. Pam arrives back at the office just after Michael leaves. However, Pam rushes to the airport, saying an emotional goodbye right before Michael leaves for Colorado."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Parallel to the events above, Andy sets out with Deangelo to keep one of Michael's ten largest clients. Deangelo reveals that he has no sales or management background, and he was only given this job because he saved one of Jo's dogs during a mugging. Deangelo turns out to be a terrible salesman, almost blowing the sale. However, Andy goes back alone and shows his true sales ability, convincing the client to sign back with Dunder Mifflin."
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Michael's final moments with each employee",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Phyllis: Michael gives Phyllis a \"chattering teeth\" gag gift, and in return, she gives him hand-knit mittens with very complicated washing instructions. (Washing instructions: hand-wash only, do not use water. Wring dry gently, use hairdryer on cool.)",
+                                "elements": []
+                            },
+                            {
+                                "text": "Stanley: Michael gives him a miniature pool table but without any balls or cues.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Andy: Michael gives Andy his folder containing his top ten most important clients, even though Andy is the salesman with the lowest numbers. Andy then has trouble keeping the clients with Dunder Mifflin.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Kevin: Michael gives Kevin a grotesque poster of a pig eating pizza, with Kevin's head on it. He proceeds to rip it up, which apparently makes Kevin feel better. Michael tells Kevin: \"You should never settle for who you are\".",
+                                "elements": []
+                            },
+                            {
+                                "text": "Oscar: Michael gives Oscar a ragdoll and Oscar pretends to appreciate his gift. In a talking head, Michael laughs at how Oscar's low opinion of him easily allows him to accept that Michael spent hours making such a shoddy ragdoll.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Angela: Michael confesses that he thought the two would have sex at some point. Angela shows him pictures of her boyfriend, the state senator.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Toby: Toby tells Michael about his brother who lives in Boulder, the city where Michael is moving to.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Kelly: Michael asks Kelly if the best goodbye he could give her would be to walk away and stop talking to her, which he does.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Ryan: Michael gives Ryan his \"St. Pauli Girl\" neon beer sign for his closet \"office\".",
+                                "elements": []
+                            },
+                            {
+                                "text": "Darryl: Michael gives Darryl an unfinished version of his book, \"Somehow I Manage\" and asks if he can use the baler to which Darryl refuses.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Warehouse:  Michael tries to score a basket while turned around and constantly fails but eventually succeeds. Every time he shoots he says the phrase \"Catch you (guys) on the flippity-flip\"",
+                                "elements": []
+                            },
+                            {
+                                "text": "Erin: The two share an emotional moment. He gives Erin from-the-heart relationship advice, briefly acting as the comforting father figure that she never had.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Dwight: Michael gives him a positive recommendation letter and they share a paintball game behind the warehouse.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Meredith: Michael talks to her about dying along with Creed and Gabe.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Creed: Michael talks to him about dying along with Gabe and Meredith.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Gabe: Michael gives Gabe advice on how to look \"less like a transvestite\".",
+                                "elements": []
+                            },
+                            {
+                                "text": "Jim: Michael and Jim share an emotional moment as Jim realizes Michael's plans to leave early, as a way to avoid emotional goodbyes.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Pam: The two meet at the airport and hug; Pam watches Michael's plane fly away. This was his last individual goodbye.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Cultural references",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "The Rockies is short for The Rocky Mountains, a major mountain range in western North America.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Deangelo calls Michael a \"dead man walking\"; an employee who is certain to be fired in the near future.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Sudoku is a logic-based, combinational number-placement puzzle.",
+                                "elements": []
+                            },
+                            {
+                                "text": "The \"scarecrow who gave me a brain\" is a reference to The Wonderful Wizard Of Oz, a children's novel.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Michael tells Angela \"Bravo!\" about the Senator and Oscar quickly corrects him with \"Brava!\", the feminine form of the word. This is Oscar's subtle hint at Robert's homosexuality, but it's lost on everybody else.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Holly's parents live in Boulder, Colorado.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Michael tells Gabe he looks like a transvestite.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Pam goes to the cinema to see The King's Speech.",
+                                "elements": []
+                            },
+                            {
+                                "text": "A deathbed is a place where a person dies or lies in during the last few hours before death. It's not a specific product one could buy in a store, like Michael seems to think.",
+                                "elements": []
+                            },
+                            {
+                                "text": "At Michael's going away party, big posters of his favorite comedians Robin Williams and Steve Martin are on the wall.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Boulder, Colorado is where the infamous murder of JonBenét Ramsey occurred in 1996.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Connections to previous episodes",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Gabe says he owns over 200 horror movies. His love for the genre was clear in The Seminar.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Michael puts his new Dundie from the previous episode (Michael's Last Dundies) on his desk, a homage to the final shot in the series opening sequence.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Phyllis knits Michael red mittens that look very similar to the oven mitts she made him in Christmas Party. Michael has learned to appreciate her homemade gifts and is very glad when she manages to finish them, a big change from the way he treated his gift years ago.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Unlike in Email Surveillance, Michael prefers to have his lunch alone, perhaps in a way to have a more \"normal\" last day.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Michael gives his St. Pauli Girl neon beer sign to Ryan. It has appeared in Dinner Party and more recently, Garage Sale.",
+                                "elements": []
+                            },
+                            {
+                                "text": "The Party Planning Committee is reformed after being broken up by Pam as Office Administrator in Classy Christmas.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Creed's continual habit of using the women's bathroom was first introduced in Women's Appreciation.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Michael gives Darryl his unfinished book \"Somehow I Manage\", which was originally mentioned in Happy Hour.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Michael's obsession with basketball and wanting to use the baler serves as a reference to the season one episode, Basketball, and the season three episode Safety Training, respectively.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Michael asks Erin if she's in love with Kevin, probably because he set them up in The Delivery. He also gives her fatherly advice like he did in Viewing Party.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Dwight finally gets to play paintball with Michael, he first expressed interest in it back in Christmas Party.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Pam goes to a screening of The King's Speech; this was referenced several times in the previous episode Michael's Last Dundies.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Michael's racist character Ping appears, having previously appeared in The Dundies and The Seminar.",
+                                "elements": []
+                            },
+                            {
+                                "text": "The title of the episode is very reminiscent of another time a character left - Goodbye, Toby.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Amusing details/Trivia",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "In the cold open, Dwight begins eating the bull testicles that Michael refuses while they quarrel.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Jim is able to make eye contact with the camera by using the mirror.",
+                                "elements": []
+                            },
+                            {
+                                "text": "When Michael replaces his World's Best Boss mug with the Dundie he was just given, he replicates the ending of the theme song for the entire show where he adjusts his Dundie on his desk.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Toby's brother Rory is played by Warren Lieberstein, who is the younger brother of the show's former showrunner/actor Paul Lieberstein (who plays Toby). Warren is the brother-in-law of the show's developer and original producer Greg Daniels. He and Angela Kinsey (who plays Angela) were married for 8 years and have a daughter who was born in 2008.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Michael's goodbye to Pam serves as a homage to a scene in the UK version of The Office, where Tim Canterbury proclaims his love for Dawn Tinsley in a meeting room, but Tim turns off his microphone first so the cameras pick up only their reactions and no sound. This scene was also referenced in the fifth season finale, Company Picnic.",
+                                "elements": []
+                            },
+                            {
+                                "text": "It's unknown how Pam got past the security checkpoint at the airport without a ticket. She likely purchased a very cheap or a refundable ticket. However, some airports allow loved ones to go to the gates to say goodbye, as long as they go through security. Also, the microphone on Michael's chest must have been hard to explain to TSA.",
+                                "elements": []
+                            },
+                            {
+                                "text": "When Michael leaves the office to catch his taxi to the airport, Creed spots him and says \"See you tomorrow boss,\" and raises his coffee mug to him - this mug is Michael's \"World's Best Boss\" coffee mug that he threw away in his office trash can earlier in the episode. Ironically, Creed soon becomes acting manager shortly after.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Michael left his tape recorder and other toys in his office.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Michael crosses out Jim and Dwight's names in different ways than the rest of the staff on his list.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Jenna Fischer (Pam) stated that when she hugged Steve Carell (Michael) after the microphones were off, she was telling him how much she was going to miss working with him.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Goofs",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "When Michael leaves for Boulder he is most likely at Wilkes-Barre Scranton Intl. Airport, however that airport does not have flights to anywhere west of Detroit. Though, it's not mentioned if his flight is connecting somewhere or not.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "The envelope Michael gives Dwight changes size between shots.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Cast",
+                "level": 2,
+                "content": [],
+                "images": []
+            },
+            {
+                "title": "Main Cast",
+                "level": 3,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Steve Carell as Michael Scott",
+                                "elements": []
+                            },
+                            {
+                                "text": "Rainn Wilson as Dwight Schrute",
+                                "elements": []
+                            },
+                            {
+                                "text": "John Krasinski as Jim Halpert",
+                                "elements": []
+                            },
+                            {
+                                "text": "Jenna Fischer as Pam Halpert",
+                                "elements": []
+                            },
+                            {
+                                "text": "B.J. Novak as Ryan Howard",
+                                "elements": []
+                            },
+                            {
+                                "text": "Ed Helms as Andy Bernard",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Supporting Cast",
+                "level": 3,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Leslie David Baker as Stanley Hudson",
+                                "elements": []
+                            },
+                            {
+                                "text": "Brian Baumgartner as Kevin Malone",
+                                "elements": []
+                            },
+                            {
+                                "text": "Creed Bratton (actor) as Creed Bratton",
+                                "elements": []
+                            },
+                            {
+                                "text": "Kate Flannery as Meredith Palmer",
+                                "elements": []
+                            },
+                            {
+                                "text": "Mindy Kaling as Kelly Kapoor",
+                                "elements": []
+                            },
+                            {
+                                "text": "Ellie Kemper as Erin Hannon",
+                                "elements": []
+                            },
+                            {
+                                "text": "Angela Kinsey as Angela Martin",
+                                "elements": []
+                            },
+                            {
+                                "text": "Paul Lieberstein as Toby Flenderson",
+                                "elements": []
+                            },
+                            {
+                                "text": "Oscar Nunez as Oscar Martinez",
+                                "elements": []
+                            },
+                            {
+                                "text": "Craig Robinson as Darryl Philbin",
+                                "elements": []
+                            },
+                            {
+                                "text": "Phyllis Smith as Phyllis Vance",
+                                "elements": []
+                            },
+                            {
+                                "text": "Zach Woods as Gabe Lewis",
+                                "elements": []
+                            },
+                            {
+                                "text": "Amy Ryan as Holly Flax (Voice Only)",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Special Guest Star",
+                "level": 3,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Will Ferrell as Deangelo Vickers",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Recurring Cast",
+                "level": 3,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Andy Buckley as David Wallace (Deleted scene/Extended cut)",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Guest Cast",
+                "level": 3,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Warren Lieberstein as Rory Flenderson",
+                                "elements": []
+                            },
+                            {
+                                "text": "Jack Coleman as State Senator Robert Lipton",
+                                "elements": []
+                            },
+                            {
+                                "text": "Calvin Tenner as Calvin",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "﻿"
+                    }
+                ],
+                "images": []
+            }
+        ]
+    },
+    "quotesDetails": {
+        "sections": [
+            {
+                "title": "Goodbye, Michael Quotes",
+                "level": 1,
+                "content": [],
+                "images": []
+            }
+        ]
+    },
+    "coldOpens": [
+        "While Michael is sitting on the roof to prepare himself for the high altitude of Colorado, Dwight offers him a sabotaged gift for not naming him as his successor. After Michael tell Dwight that it was not his job to give, he makes amends by seeking Dwight's advice on bear attacks."
+    ],
+    "storylines": [
+        "﻿It's Michael's last day at the office, at least he knows it is. The rest of the office is under the impression that his last day will be the day after, so Michael tries to get out all of his goodbyes that day before he heads to the airport.﻿ Michael talks to and/or gives gifts to every member of the office before he leaves. He first talks to Phyllis, Andy, and Stanley. Michael gives a chattering teeth gag gift to Phyllis, telling her to voice her opinion more often. Michael gives a mini felt pool table to Stanley, but doesn't include balls.",
+        "Finally, to boost Andy's confidence, Michael gives him his ten largest clients, to which Andy responds that he will not be able to keep them all. To Darryl, Michael bestows his unfinished copy of 'Somehow I Manage', a guide to managing that Michael himself wrote (this alludes back to 'Happy Hour' in season 6). Michael gives Kevin a caricature of Kevin as a pig drooling over a pizza. Michael then rips it up, telling Kevin not to be a caricature. Michael gives Oscar a self-made scarecrow. Michael talks to Angela about her fiancé, the state senator. In every photo of Angela and Robert there is also Robert's aide, which provides more evidence to Oscar that Robert is in fact homosexual.",
+        "Michael begrudgingly talks to Toby, even saying that he will talk to Toby's brother Rory. Michael leaves Kelly alone, which she claims is the greatest gift he could give her. To Ryan, Michael gives his St. Pauli Girl neon beer sign. Michael writes a letter of recommendation for Dwight, bringing Dwight close to tears. Dwight also plays paintball with Michael. Michael talks to Creed, Gabe, and Meredith. Michael tells Creed not to fear death, for Gabe not to fear dying alone, and for Meredith not to fear dying drunk in a ditch. Michael claims that he is proud he never slept with Meredith, and resists when she says she would do it with him now. Michael talks to David Wallace, revealing his intentions of leaving the company to his former boss. David tries to talk Michael out of leaving, causing Michael to almost rethink his decision.",
+        "Michael has a very personal conversation with Erin, who he has become a father figure to. Michael gives her advice on her dating life and search for love. He tells her that she will know when the right guy comes around. He also tells her to call him anytime if she needs advice. Michael says his final goodbye to the group during his last conference room meeting. However, he doesn't reveal that it is his real last goodbye, so he uses one his characters, Ping, to say goodbye to the office. Jim realizes what is happening and asks to talk to Michael in private. Michael reveals that he is leaving in a few minutes. Jim promises not to tell anyone that he is leaving. Jim expresses his true feelings for Michael, telling him that he turned out to be a great boss. With this goodbye, Michael leaves the office, but not before taking the almost finished mittens that Phyllis made for him. Pam is the only person Michael was not able to say goodbye to. Pam arrives back at the office just after Michael leaves. However, Pam rushes to the airport, saying an emotional goodbye right before Michael leaves for Colorado.",
+        "Parallel to the events above, Andy sets out with Deangelo to keep one of Michael's ten largest clients. Deangelo reveals that he has no sales or management background, and he was only given this job because he saved one of Jo's dogs during a mugging. Deangelo turns out to be a terrible salesman, almost blowing the sale. However, Andy goes back alone and shows his true sales ability, convincing the client to sign back with Dunder Mifflin."
+    ]
+}

@@ -1,0 +1,475 @@
+{
+    "season": 7,
+    "title": "Costume Contest",
+    "episode": "6",
+    "episodes": [
+        6
+    ],
+    "episodeDetails": {
+        "sections": [
+            {
+                "title": "Costume Contest",
+                "level": 1,
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "text": "\"Costume Contest\" is the sixth episode of the seventh season of the American comedy television series The Office and the show's 132nd episode overall. Written by Justin Spitzer and directed by Dean Holland, the episode aired on NBC in the United States on October 28, 2010. It was viewed by 8.07 million people. This episode received positive reviews."
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Synopsis",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "text": "Stanley doesn't notice he is drinking Jim's orange juice, thinking it's coffee, so Jim wonders how much Stanley won't notice. Kevin dresses as Phyllis; Andy sits at his desk shirtless; Jim places a cardboard box with the computer desktop on it over his monitor; Michael wears fake teeth; Michael talks about a Dunder Mifflin branch on Jupiter during a staff meeting where all the employees except Stanley are facing a different direction; Pam wears a mustache; Dwight brings a pony into the office; and he doesn't notice. But he does notice when it's 5:00 p.m. and time to leave work."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "The office becomes excited over the annual Halloween costume contest when Pam offers a Scranton-area coupon book as the prize for the winner. The coupons contain offers that total $15,000 in savings. This leads the staff (except for Oscar, who does not participate) to believe that the coupon book is literally worth $15,000. Of course, this still isn't enough to convince Jim to wear a matching couples costume (Popeye) with Pam (Olive Oyl). As the day goes on, several people realize their costume might not win, so they leave the office to switch into something more recognizable or provocative."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Gabe, dressed up as Lady Gaga, informs the staff of a sales idea where delivery drivers can suggest additional products for the customers they deliver to. The idea is designed to increase overall sales for the company. Michael realizes the idea sounds similar to a suggestion made by Darryl a long time ago; Michael, however, initially shot down the idea, believing it wouldn't work. When Jim informs Michael that warehouse worker Madge has made her first sale, Michael decides to confront corporate about stealing Darryl's idea. It is then revealed that Darryl actually pitched the idea to Gabe, who sent it up to corporate, and has already received credit."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "New salesman Danny invites everyone to a Halloween party at his bar after work. Almost everyone in the office is aware that Danny and Pam had a two-date fling four years ago. Kevin (dressed as Michael Moore) and Andy (Bill Compton) start a false rumor that Pam doesn't want people going to Danny's party, which incites Danny to confront Jim and Pam in order to determine the validity of the rumor. The conversation quickly turns to Pam and Danny's dating history, and while the three initially laugh about how their coworkers have been exaggerating its significance, it soon becomes clear that both Jim and Pam want to know exactly why she was rejected. Danny tells Jim he didn't call back because Pam couldn't stop talking about Jim during their dates, but when Pam reveals she never mentioned Jim, Danny admits that he found her too \"dorky.\" At the end of the episode, Jim comes into the office wearing his Popeye costume, carrying Cece (dressed as Swee'Pea), much to the delight of Pam."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Michael becomes progressively more agitated over the fact that Darryl went over his head and tries to get Darryl to apologize in front of everyone for 'backstabbing' him. Darryl refuses, criticizing Michael's poor judgment of his idea. In anger, Michael changes his outfit to Darryl's warehouse uniform and tries to rally the office behind him in declaring Darryl a backstabber. The two bring their argument to Gabe, where Darryl expresses his opinion that Michael has never done anything for him: Ed Truck hired him, Jo Bennett promoted him, and Gabe listened to him, whereas Michael always said no. Michael realizes he needs to listen more to his employees. Darryl apologizes to Michael, and Michael apologizes to Darryl for \"being such a jerk.\" Darryl wishes he was still operating down in the warehouse, but Andy inspires Darryl to further his career at Dunder Mifflin by recounting how he got involved with his a cappella group."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "At the end of the episode, Oscar, who changed out of his costume and into regular work clothing, is declared the winner of the coupon book. A series of Survivor-style interviews reveal several employees' reasons for voting for Oscar – Kelly wanted to vote on whom she thought was least likely to win; Ryan explains that as a \"Nader guy\", he always votes for the underdog; and lastly, Creed says he thought Oscar was wearing an excellent Edward James Olmos costume."
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Halloween costumes",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Michael as MacGruber, then Darryl (an afro wig and a warehouse uniform) before changing back",
+                                "elements": []
+                            },
+                            {
+                                "text": "Dwight as the \"Scranton Strangler\"",
+                                "elements": []
+                            },
+                            {
+                                "text": "Jim as Popeye",
+                                "elements": []
+                            },
+                            {
+                                "text": "Pam as Olive Oyl",
+                                "elements": []
+                            },
+                            {
+                                "text": "Ryan as Justin Bieber",
+                                "elements": []
+                            },
+                            {
+                                "text": "Andy as Bill Compton",
+                                "elements": []
+                            },
+                            {
+                                "text": "Stanley as a samurai warrior",
+                                "elements": []
+                            },
+                            {
+                                "text": "Kevin as Michael Moore",
+                                "elements": []
+                            },
+                            {
+                                "text": "Creed as a mummy",
+                                "elements": []
+                            },
+                            {
+                                "text": "Meredith as Sookie Stackhouse",
+                                "elements": []
+                            },
+                            {
+                                "text": "Kelly as Snooki, then Katy Perry",
+                                "elements": []
+                            },
+                            {
+                                "text": "Erin as a hideous monster",
+                                "elements": []
+                            },
+                            {
+                                "text": "Angela as a penguin, then a sexy nurse",
+                                "elements": []
+                            },
+                            {
+                                "text": "Toby as a hobo",
+                                "elements": []
+                            },
+                            {
+                                "text": "Oscar as a 70s pimp, then a \"rational consumer\"",
+                                "elements": []
+                            },
+                            {
+                                "text": "Darryl as Dracula",
+                                "elements": []
+                            },
+                            {
+                                "text": "Phyllis as Supreme Court Justice Sonia Sotomayor",
+                                "elements": []
+                            },
+                            {
+                                "text": "Gabe as Lady Gaga",
+                                "elements": []
+                            },
+                            {
+                                "text": "Todd Packer as a pregnant nun",
+                                "elements": []
+                            },
+                            {
+                                "text": "Bob Vance as Dirty Harry",
+                                "elements": []
+                            },
+                            {
+                                "text": "Cece as Swee'Pea",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Cultural references",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Gabe quotes the Lady Gaga song \"Poker Face\" at the salespeople meeting.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Kevin says that he is like an elephant in the way that he never forgets anything. It's an urban legend stemmed from the fact that the elephant has the biggest brain of all land animals.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Andy used to write a column called Bernard's Regards for the student newspaper Cornell Daily Sun.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Jim's costume includes a Missouri Meerschaum corncob pipe.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Jim tells Danny he \"can't handle the truth\", a reference to Jack Nicholson's iconic line in the 1992 film A Few Good Men.",
+                                "elements": []
+                            },
+                            {
+                                "text": "The closing scene showing everyone voting for Oscar is an allusion to Survivor.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Connections to previous episodes",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "The cold opening with the office testing Stanley to see how much he pays attention is reminiscent of Safety Training, where a few similar tests were conducted, such as swapping Creed's apple for a potato.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Unlike Michael in Company Picnic, Stanley notices instantly when the clock is wrong. He notices this because his watch didn't have its time changed, unlike Michael's.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Pam wears a fake mustache resembling the one Jim and Michael wore in Branch Wars.",
+                                "elements": []
+                            },
+                            {
+                                "text": "For the second year in a row, Michael wears a costume of a character from Saturday Night Live. The last time was in Koi Pond.",
+                                "elements": []
+                            },
+                            {
+                                "text": "When Jim says, \"I've never really been a costume guy, even when I was a kid it was something I felt too old for,\" scenes are shown from Halloween, where he was \"three hole punch Jim\", Employee Transfer, where he was \"Dave\", and Koi Pond, where he is \"Facebook\".",
+                                "elements": []
+                            },
+                            {
+                                "text": "In \"Koi Pond\" when Dwight is trying to cheer up Michael he says that Jim \"looks like Popeye's wife.\"",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Amusing Details",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Creed votes for Oscar's \"rational consumer\" costume and says it's the \"best Edward James Olmos costume\". A similar gag appeared in the first Halloween episode of South Park, in which Mr. Garrison crowns a zombified Kenny runner-up and made the same assumption.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Despite it being removed from the episode, a scene is shown of Jim in his Facebook costume from Koi Pond.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Jim says that Pam and Danny went on two dates while he was in Stamford dating someone else. Since Jim and Karen only started dating after they moved to Scranton, it could be that Jim dated someone else briefly in the summer between season 2 and season 3. He might also have been exaggerating to make a point.",
+                                "elements": []
+                            },
+                            {
+                                "text": "After Michael reveals his new Darryl costume, two dark smears can be seen behind his ear. This could allude to him having the idea to paint his face for his Darryl impersonation. Thankfully, he decided against it and avoided an offensive gesture (blackface).",
+                                "elements": []
+                            },
+                            {
+                                "text": "Kevin appears to be sincerely sorry when Michael takes his anger from Darryl out on him, becoming quite upset. Michael realizes his mistake and states, \"Just don't let it happen again,\" which causes Kevin to exclaim, \"do you think I would let this happen again?\"",
+                                "elements": []
+                            },
+                            {
+                                "text": "Dwight thinks Pam's Olive Oyl costume is his mother, saying that Pam is not nearly as beautiful and only half of her height. This would peg Mrs. Schrute at eleven feet tall.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Production",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "text": "\"Costume Contest\" was directed by Dean Holland, an editor on the series, and written by Justin Spitzer. It was the second episode to feature Timothy Olyphant in a guest appearance as Danny Cordray, he was billed as a special guest star. David Koechner appears as Todd Packer, last seen in the sixth-season episode, \"St. Patrick's Day\"."
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Cast",
+                "level": 2,
+                "content": [],
+                "images": []
+            },
+            {
+                "title": "Main Cast",
+                "level": 3,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Steve Carell as Michael Scott",
+                                "elements": []
+                            },
+                            {
+                                "text": "Rainn Wilson as Dwight Schrute",
+                                "elements": []
+                            },
+                            {
+                                "text": "John Krasinski as Jim Halpert",
+                                "elements": []
+                            },
+                            {
+                                "text": "Jenna Fischer as Pam Halpert",
+                                "elements": []
+                            },
+                            {
+                                "text": "B.J. Novak as Ryan Howard",
+                                "elements": []
+                            },
+                            {
+                                "text": "Ed Helms as Andy Bernard",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Supporting Cast",
+                "level": 3,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Leslie David Baker as Stanley Hudson",
+                                "elements": []
+                            },
+                            {
+                                "text": "Brian Baumgartner as Kevin Malone",
+                                "elements": []
+                            },
+                            {
+                                "text": "Creed Bratton (actor) as Creed Bratton",
+                                "elements": []
+                            },
+                            {
+                                "text": "Kate Flannery as Meredith Palmer",
+                                "elements": []
+                            },
+                            {
+                                "text": "Mindy Kaling as Kelly Kapoor",
+                                "elements": []
+                            },
+                            {
+                                "text": "Ellie Kemper as Erin Hannon",
+                                "elements": []
+                            },
+                            {
+                                "text": "Angela Kinsey as Angela Martin",
+                                "elements": []
+                            },
+                            {
+                                "text": "Paul Lieberstein as Toby Flenderson",
+                                "elements": []
+                            },
+                            {
+                                "text": "Oscar Nunez as Oscar Martinez",
+                                "elements": []
+                            },
+                            {
+                                "text": "Craig Robinson as Darryl Philbin",
+                                "elements": []
+                            },
+                            {
+                                "text": "Phyllis Smith as Phyllis Vance",
+                                "elements": []
+                            },
+                            {
+                                "text": "Zach Woods as Gabe Lewis",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Recurring Cast",
+                "level": 3,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "David Koechner as Todd Packer",
+                                "elements": []
+                            },
+                            {
+                                "text": "Bobby Ray Shafer as Bob Vance",
+                                "elements": []
+                            },
+                            {
+                                "text": "Timothy Olyphant as Danny Cordray",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Quotes",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Michael Scott: \"Happy Halloween.....JERK!",
+                                "elements": []
+                            },
+                            {
+                                "text": "Dwight Schrute: \"I know how to sit on a fence. Hell, I can even sleep on a fence. The trick is to do it face down, with the post in your mouth.\"",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Reception",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "text": "In its original American broadcast on October 28, 2010, \"Costume Contest\" was viewed by an estimated 8.07 million viewers and received a 4.0 rating/11% share among adults between the ages of 18 and 49. The episode's rating improved 15% from the previous episode.<supclass=\"reference\" id=\"cite_ref-0\">[1]</sup><supclass=\"reference\" id=\"cite_ref-1\">[2]</sup>"
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "James Poniewozik of Time said, \"It started excellently with \"What can Stanley ignore\" pre-credit sequence and it rolled on from there.\" He also said that this episode contained a number of nice character moments.<supclass=\"reference\" id=\"cite_ref-2\">[3]</sup>"
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "References",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "^ Gorman, Bill (October 29, 2010). \"TV Ratings Thursday: Giants Win! But Ratings May Do Worse Than Rangers; Grey’s Anatomy Hits Low; NBC Boosted By Shrek?\". TV by the Numbers. http://tvbythenumbers.com/2010/10/29/tv-ratings-thursday-giants-win-but-ratings-may-do-worse-than-rangers-greys-anatomy-hits-low-nbc-line-up-rises/70103. Retrieved October 29, 2010.",
+                                "elements": []
+                            },
+                            {
+                                "text": "^ Gorman, Bill (October 29, 2010). \"Thursday Final Ratings: Grey’s Anatomy, Big Bang Theory, Shrekless, Office Adjusted Up; Nikita Down; Plus World Series Game 2\". TV by the Numbers. http://tvbythenumbers.com/2010/10/29/thursday-final-ratings-greys-anatomy-big-bang-theory-shrekless-office-adjusted-up-nikita-down-plus-world-series-game-2/70162. Retrieved October 29, 2010.",
+                                "elements": []
+                            },
+                            {
+                                "text": "^ Poniewozik, James (October 29, 2010). \"Community / Office Watch: Fright Night\". Time. http://tunedin.blogs.time.com/2010/10/29/community-office-watch-fright-night/. Retrieved 2010-10-31.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            }
+        ]
+    },
+    "quotesDetails": {
+        "sections": [
+            {
+                "title": "Costume Contest Quotes",
+                "level": 1,
+                "content": [],
+                "images": []
+            }
+        ]
+    },
+    "coldOpens": [
+        "There is no limit to what Stanley will not notice."
+    ],
+    "storylines": [
+        "Stanley doesn't notice he is drinking Jim's orange juice, thinking it's coffee, so Jim wonders how much Stanley won't notice. Kevin dresses as Phyllis; Andy sits at his desk shirtless; Jim places a cardboard box with the computer desktop on it over his monitor; Michael wears fake teeth; Michael talks about a Dunder Mifflin branch on Jupiter during a staff meeting where all the employees except Stanley are facing a different direction; Pam wears a mustache; Dwight brings a pony into the office; and he doesn't notice. But he does notice when it's 5:00 p.m. and time to leave work.",
+        "The office becomes excited over the annual Halloween costume contest when Pam offers a Scranton-area coupon book as the prize for the winner. The coupons contain offers that total $15,000 in savings. This leads the staff (except for Oscar, who does not participate) to believe that the coupon book is literally worth $15,000. Of course, this still isn't enough to convince Jim to wear a matching couples costume (Popeye) with Pam (Olive Oyl). As the day goes on, several people realize their costume might not win, so they leave the office to switch into something more recognizable or provocative.",
+        "Gabe, dressed up as Lady Gaga, informs the staff of a sales idea where delivery drivers can suggest additional products for the customers they deliver to. The idea is designed to increase overall sales for the company. Michael realizes the idea sounds similar to a suggestion made by Darryl a long time ago; Michael, however, initially shot down the idea, believing it wouldn't work. When Jim informs Michael that warehouse worker Madge has made her first sale, Michael decides to confront corporate about stealing Darryl's idea. It is then revealed that Darryl actually pitched the idea to Gabe, who sent it up to corporate, and has already received credit.",
+        "New salesman Danny invites everyone to a Halloween party at his bar after work. Almost everyone in the office is aware that Danny and Pam had a two-date fling four years ago. Kevin (dressed as Michael Moore) and Andy (Bill Compton) start a false rumor that Pam doesn't want people going to Danny's party, which incites Danny to confront Jim and Pam in order to determine the validity of the rumor. The conversation quickly turns to Pam and Danny's dating history, and while the three initially laugh about how their coworkers have been exaggerating its significance, it soon becomes clear that both Jim and Pam want to know exactly why she was rejected. Danny tells Jim he didn't call back because Pam couldn't stop talking about Jim during their dates, but when Pam reveals she never mentioned Jim, Danny admits that he found her too \"dorky.\" At the end of the episode, Jim comes into the office wearing his Popeye costume, carrying Cece (dressed as Swee'Pea), much to the delight of Pam.",
+        "Michael becomes progressively more agitated over the fact that Darryl went over his head and tries to get Darryl to apologize in front of everyone for 'backstabbing' him. Darryl refuses, criticizing Michael's poor judgment of his idea. In anger, Michael changes his outfit to Darryl's warehouse uniform and tries to rally the office behind him in declaring Darryl a backstabber. The two bring their argument to Gabe, where Darryl expresses his opinion that Michael has never done anything for him: Ed Truck hired him, Jo Bennett promoted him, and Gabe listened to him, whereas Michael always said no. Michael realizes he needs to listen more to his employees. Darryl apologizes to Michael, and Michael apologizes to Darryl for \"being such a jerk.\" Darryl wishes he was still operating down in the warehouse, but Andy inspires Darryl to further his career at Dunder Mifflin by recounting how he got involved with his a cappella group.",
+        "At the end of the episode, Oscar, who changed out of his costume and into regular work clothing, is declared the winner of the coupon book. A series of Survivor-style interviews reveal several employees' reasons for voting for Oscar – Kelly wanted to vote on whom she thought was least likely to win; Ryan explains that as a \"Nader guy\", he always votes for the underdog; and lastly, Creed says he thought Oscar was wearing an excellent Edward James Olmos costume."
+    ]
+}

@@ -1,0 +1,281 @@
+{
+    "season": 4,
+    "title": "Launch Party",
+    "episode": "5/6",
+    "episodes": [
+        5,
+        6
+    ],
+    "episodeDetails": {
+        "sections": [
+            {
+                "title": "Launch Party",
+                "level": 1,
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "text": "\"Launch Party\" is the fifth/sixth episode of the fourth season of The Office and is the show's 58th/59th episode overall. It was written by Jennifer Celotta and directed by Ken Whittingham. It first aired on October 11, 2007 and was an hour-long episode. It was viewed by 8.91 million people."
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Synopsis",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "text": "In a meeting, the staff appear to be unusually engaged in listening to Michael's absurd ramblings. But in a talking head interview, Jim reveals that they're actually watching the television screen next to Michael, which is showing a DVD screensaver logo bouncing around. They are intently watching to see if the logo ever bounces directly into the corner of the screen, and their audible reactions (which Michael misinterprets as responses to the things he's saying) come as the logo just misses. Eventually the logo does bounce into the corner, and everyone erupts in celebration. The employees then stand up and walk out abruptly. Michael, still obliviously thinking the adulation is meant for him, says in interview that \"Some days I am just on fire!\""
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "As Meredith returns to work at the office, Michael makes preparations to attend the New York launch party of the new Dunder Mifflin Infinity website. Each branch is to have its own satellite party connected by webcams."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "When he hears that the website is expected to become the company's best salesman, Dwight decides to compete against it. Andy keeps a running tally of reams sold, blowing an air horn each time Dwight makes a sale. Irritated by the distraction, Jim plots with Pam on a prank. They send Dwight instant messages pretending to be the company's computer system, which has become self-aware and taunts Dwight. At one point, Dwight even attempts to cancel a website order from Kelly until Darryl forcefully defends her."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "At the end of the selling period, Dwight wins the challenge, but when he gloats to Angela about his victory, she rejects him outright and makes it clear that they are broken up for good. Pam, feeling sorry for Dwight, sends another message as the computer acknowledging him as a superior being."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Jan tells Michael she doesn't want to go to the launch party (since it will be filled with former coworkers), so Michael invites Jim to accompany him. As they cross the Pennsylvania border, Jim realizes that Michael received an \"invitation\" to an online chat room, not the actual party, and turns the car around. Michael returns to Scranton dejected and attempts to plan a better party. This irritates party planner Angela, who has already been in an exceptionally irritable mood.  Michael's attempt to create a better party in Scranton hits an early snag when he accidentally orders pizza from the office's least favorite pizzeria. Michael finally snaps when the delivery boy refuses to honor an ambiguous coupon. Michael then refuses to let the surly youngster leave unless he changes his mind about the discount. The other employees order new pizzas from their preferred establishment, and the party goes on even while Michael's kidnapping victim sits next to them. Jim and Pam escape to the rooftop with one of the pizzas, both to be by themselves and to avoid being associated with the delivery boy's detention."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "When it's his turn to introduce the Scranton office to the rest of the company via webcam, Michael instead uses the opportunity to slam the website and point out that Dwight actually sold more paper on its first day. The pizza boy also uses the webcam to send out word that he's been kidnapped. Eventually Michael has an epiphany about the fact that he's committed a crime, and lets the delivery boy go after Dwight pays full price for the pizzas."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Andy's romantic attentions turn to Angela, eventually serenading her with ABBA's \"Take a Chance on Me\" in front of the entire office with his friends from his Cornell acapella group backing him up on speakerphones. She doesn't give him an answer, but has trouble stifling a smile. After the Scranton party, Michael decides that he wants authentic New York sushi, and he and Dwight crash the just-completed main party. One of Ryan's coworkers tells Michael they enjoyed his earlier webcam outburst because it clearly embarrassed Ryan. "
+                    }
+                ],
+                "images": [
+                    {
+                        "src": "https://vignette.wikia.nocookie.net/theoffice/images/6/6c/LPJ.png/revision/latest/scale-to-width-down/354?cb=20131126030207",
+                        "caption": ""
+                    }
+                ]
+            },
+            {
+                "title": "Trivia",
+                "level": 2,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Dwight grows hemp on his farm even though it was illegal in Pennsylvania at the time.",
+                                "elements": []
+                            },
+                            {
+                                "text": "This is arguably the third time we see Michael wearing women's clothing, the first instance being in The Negotiation when Darryl points out that he is wearing a woman's suit. The second instance being in Fun Run, where he wears a pair of women's running shorts. On this occasion, Michael has called Pam, Kelly, Meredith, Angela, and Oscar into the conference room to determine if his shirt is too tight, a shirt which would appear to be a woman's shirt.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Kevin McHale, who plays the delivery boy, appears on Glee as wheelchair-bound Artie Abrams. In Viewing Party (where the title event revolves around a Glee episode), Michael says that \"the invalid\" is his favorite character on the show.",
+                                "elements": []
+                            },
+                            {
+                                "text": "When Jim signs Meredith's cast he signs it as John Krasinski.",
+                                "elements": []
+                            },
+                            {
+                                "text": "During Dwight's competition with the computer, he sends the computer an insult in binary, saying \"Why don't you 0111111011011\". The meaning of the binary message depends on the character encoding that Dwight had in mind. It could not be encoded using 7-bit nor 8-bit patters of a ASCII Table, for example, as the sequence has 13 bits and it is not divisible by 7 nor 8.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Angela is wearing cat shaped earrings in the scene where she is complaining that her cat is still dead.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Even though Michael is looking at his own image on the TV and there is no indication that the speakers were on mute, there is no feedback when he talks about Dwight beating the website.",
+                                "elements": []
+                            },
+                            {
+                                "text": "The delivery boy must have mistaken Dwight's hemp for marijuana which is probably why he referred to it as \"really crappy weed\", hemp generally doesn't have enough THC content for smoking as opposed to marijuana. Hemp is often confused with marijuana.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Michael takes his frustrations on Ryan out on the pizza delivery boy, saying \"You don't even know anything about sales!\", referring to Ryan never making any sales. This also makes sense as the pizza delivery kid is not a salesman, which is why he is confused when Michael says this to him.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Ryan says \"How about that image? Crystal clear,\" even though the image quality is quite terrible.",
+                                "elements": []
+                            },
+                            {
+                                "text": "Michael says \"Give him a nice tip...no more than ten percent.\" Ten percent is considered a poor tip, and the standard tip expected is fifteen to twenty percent.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Cast",
+                "level": 2,
+                "content": [],
+                "images": []
+            },
+            {
+                "title": "Main Cast",
+                "level": 3,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Steve Carell as Michael Scott",
+                                "elements": []
+                            },
+                            {
+                                "text": "Rainn Wilson as Dwight Schrute",
+                                "elements": []
+                            },
+                            {
+                                "text": "John Krasinski as Jim Halpert",
+                                "elements": []
+                            },
+                            {
+                                "text": "Jenna Fischer as Pam Beesly",
+                                "elements": []
+                            },
+                            {
+                                "text": "B.J. Novak as Ryan Howard",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Supporting Cast",
+                "level": 3,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Ed Helms as Andy Bernard",
+                                "elements": []
+                            },
+                            {
+                                "text": "Leslie David Baker as Stanley Hudson",
+                                "elements": []
+                            },
+                            {
+                                "text": "Brian Baumgartner as Kevin Malone",
+                                "elements": []
+                            },
+                            {
+                                "text": "Creed Bratton (actor) as Creed Bratton",
+                                "elements": []
+                            },
+                            {
+                                "text": "Kate Flannery as Meredith Palmer",
+                                "elements": []
+                            },
+                            {
+                                "text": "Mindy Kaling as Kelly Kapoor",
+                                "elements": []
+                            },
+                            {
+                                "text": "Angela Kinsey as Angela Martin",
+                                "elements": []
+                            },
+                            {
+                                "text": "Paul Lieberstein as Toby Flenderson (only in deleted scenes)",
+                                "elements": []
+                            },
+                            {
+                                "text": "Oscar Nunez as Oscar Martinez",
+                                "elements": []
+                            },
+                            {
+                                "text": "Craig Robinson as Darryl Philbin",
+                                "elements": []
+                            },
+                            {
+                                "text": "Phyllis Smith as Phyllis Vance",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            },
+            {
+                "title": "Guest Cast",
+                "level": 3,
+                "content": [
+                    {
+                        "type": "list",
+                        "elements": [
+                            {
+                                "text": "Dan Cole as Dan Gore",
+                                "elements": []
+                            },
+                            {
+                                "text": "Kevin McHale as Pizza Delivery Kid",
+                                "elements": []
+                            },
+                            {
+                                "text": "Scott Damian as Thomas Dean",
+                                "elements": []
+                            },
+                            {
+                                "text": "Nick Armstrong as AV guy",
+                                "elements": []
+                            },
+                            {
+                                "text": "Brad Graiff as Ryan's employee",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "images": []
+            }
+        ]
+    },
+    "quotesDetails": {
+        "sections": [
+            {
+                "title": "Launch Party Quotes",
+                "level": 1,
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "text": "Angela: Plan a party, Angela. Oh! And the entire world will see it. Oh! And here's $65.00 for your budget. Oh and here are four idiots who'll do nothing but weigh you down. Oh. And your cat's still dead."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Dwight: I've seen this kid before - he's one of the kids that sneaks onto my farm and steals my hemp.\nPizza Delivery Kid: Yeah, I know that guy - he's that farmer that grows really crappy weed."
+                    }
+                ],
+                "images": []
+            }
+        ]
+    },
+    "coldOpens": [
+        "Michael is holding a meeting, but instead of everyone paying attention, they are waiting for a square to go into the corner of the TV because it never happens. When it finally does go into the corner everyone cheers, which Michael mistakes as laughter for his jokes. "
+    ],
+    "storylines": [
+        "In a meeting, the staff appear to be unusually engaged in listening to Michael's absurd ramblings. But in a talking head interview, Jim reveals that they're actually watching the television screen next to Michael, which is showing a DVD screensaver logo bouncing around. They are intently watching to see if the logo ever bounces directly into the corner of the screen, and their audible reactions (which Michael misinterprets as responses to the things he's saying) come as the logo just misses. Eventually the logo does bounce into the corner, and everyone erupts in celebration. The employees then stand up and walk out abruptly. Michael, still obliviously thinking the adulation is meant for him, says in interview that \"Some days I am just on fire!\"",
+        "As Meredith returns to work at the office, Michael makes preparations to attend the New York launch party of the new Dunder Mifflin Infinity website. Each branch is to have its own satellite party connected by webcams.",
+        "When he hears that the website is expected to become the company's best salesman, Dwight decides to compete against it. Andy keeps a running tally of reams sold, blowing an air horn each time Dwight makes a sale. Irritated by the distraction, Jim plots with Pam on a prank. They send Dwight instant messages pretending to be the company's computer system, which has become self-aware and taunts Dwight. At one point, Dwight even attempts to cancel a website order from Kelly until Darryl forcefully defends her.",
+        "At the end of the selling period, Dwight wins the challenge, but when he gloats to Angela about his victory, she rejects him outright and makes it clear that they are broken up for good. Pam, feeling sorry for Dwight, sends another message as the computer acknowledging him as a superior being.",
+        "Jan tells Michael she doesn't want to go to the launch party (since it will be filled with former coworkers), so Michael invites Jim to accompany him. As they cross the Pennsylvania border, Jim realizes that Michael received an \"invitation\" to an online chat room, not the actual party, and turns the car around. Michael returns to Scranton dejected and attempts to plan a better party. This irritates party planner Angela, who has already been in an exceptionally irritable mood.  Michael's attempt to create a better party in Scranton hits an early snag when he accidentally orders pizza from the office's least favorite pizzeria. Michael finally snaps when the delivery boy refuses to honor an ambiguous coupon. Michael then refuses to let the surly youngster leave unless he changes his mind about the discount. The other employees order new pizzas from their preferred establishment, and the party goes on even while Michael's kidnapping victim sits next to them. Jim and Pam escape to the rooftop with one of the pizzas, both to be by themselves and to avoid being associated with the delivery boy's detention.",
+        "When it's his turn to introduce the Scranton office to the rest of the company via webcam, Michael instead uses the opportunity to slam the website and point out that Dwight actually sold more paper on its first day. The pizza boy also uses the webcam to send out word that he's been kidnapped. Eventually Michael has an epiphany about the fact that he's committed a crime, and lets the delivery boy go after Dwight pays full price for the pizzas.",
+        "Andy's romantic attentions turn to Angela, eventually serenading her with ABBA's \"Take a Chance on Me\" in front of the entire office with his friends from his Cornell acapella group backing him up on speakerphones. She doesn't give him an answer, but has trouble stifling a smile. After the Scranton party, Michael decides that he wants authentic New York sushi, and he and Dwight crash the just-completed main party. One of Ryan's coworkers tells Michael they enjoyed his earlier webcam outburst because it clearly embarrassed Ryan. "
+    ],
+    "quotes": [
+        "Angela: Plan a party, Angela. Oh! And the entire world will see it. Oh! And here's $65.00 for your budget. Oh and here are four idiots who'll do nothing but weigh you down. Oh. And your cat's still dead.",
+        "Dwight: I've seen this kid before - he's one of the kids that sneaks onto my farm and steals my hemp.\nPizza Delivery Kid: Yeah, I know that guy - he's that farmer that grows really crappy weed."
+    ]
+}

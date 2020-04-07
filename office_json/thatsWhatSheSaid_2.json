@@ -1,0 +1,429 @@
+[
+    {
+        "episode": 2,
+        "episodeName": "Sexual Harassment",
+        "season": 2,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Jim",
+        "contextText": "No thanks, I'm good."
+    },
+    {
+        "episode": 2,
+        "episodeName": "Sexual Harassment",
+        "season": 2,
+        "instance": 2,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Pam",
+        "contextText": "My mother's coming."
+    },
+    {
+        "episode": 2,
+        "context": "Jim: \"Wow, that is really hard.\"\"You really think you can go all day long?\"\"Well, you always left me satisfied and smiling...\"",
+        "episodeName": "Sexual Harassment",
+        "season": 2,
+        "instance": 3,
+        "twssSpeaker": "Michael"
+    },
+    {
+        "episode": 10,
+        "episodeName": "Christmas Party",
+        "season": 2,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Kevin",
+        "contextText": "Why did you get it so big?"
+    },
+    {
+        "episode": 12,
+        "episodeName": "The Injury",
+        "season": 2,
+        "instance": 1,
+        "twssSpeaker": "Dwight",
+        "contextSpeaker": "Doctor",
+        "contextText": "Does the skin look red and swollen?"
+    },
+    {
+        "episode": 12,
+        "episodeName": "The Injury*",
+        "season": 2,
+        "instance": 2,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Oscar",
+        "contextText": "You should put butter on it."
+    },
+    {
+        "episode": 17,
+        "context": "Dwight eats grapes.",
+        "episodeName": "Dwight's Speech",
+        "season": 2,
+        "instance": 1,
+        "twssSpeaker": "Michael"
+    },
+    {
+        "episode": 21,
+        "episodeName": "Conflict Resolution",
+        "season": 2,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Angela",
+        "contextText": "You already did me."
+    },
+    {
+        "episode": 1,
+        "episodeName": "Gay Witch Hunt",
+        "season": 3,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Himself",
+        "contextText": "Put this matter to bed."
+    },
+    {
+        "episode": 3,
+        "episodeName": "The Convention#",
+        "season": 3,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Jan",
+        "contextText": "I can't stay on top of you 24/7."
+    },
+    {
+        "episode": 5,
+        "episodeName": "Initiation*",
+        "season": 3,
+        "instance": 1,
+        "twssSpeaker": "Stanley",
+        "contextSpeaker": "Michael",
+        "contextText": "They taste so good in my mouth."
+    },
+    {
+        "episode": 10,
+        "context": "Waitress whispers in his ear.",
+        "episodeName": "A Benihana Christmas",
+        "season": 3,
+        "instance": 1,
+        "twssSpeaker": "Michael"
+    },
+    {
+        "episode": 12,
+        "episodeName": "Traveling Salesmen",
+        "season": 3,
+        "instance": 1,
+        "twssSpeaker": "Dwight",
+        "contextSpeaker": "Michael",
+        "contextText": "I want you to think about it long and hard."
+    },
+    {
+        "episode": 18,
+        "episodeName": "Cocktails",
+        "season": 3,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Jan",
+        "contextText": "Let's just blow this party off."
+    },
+    {
+        "episode": 18,
+        "episodeName": "Cocktails",
+        "season": 3,
+        "instance": 2,
+        "twssSpeaker": "Jan",
+        "contextSpeaker": "Herself",
+        "contextText": "Why is this so hard?"
+    },
+    {
+        "episode": 21,
+        "episodeName": "Product Recall",
+        "season": 3,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Himself",
+        "contextText": "I need two men on this."
+    },
+    {
+        "episode": 23,
+        "episodeName": "Beach Games*",
+        "season": 3,
+        "instance": 1,
+        "twssSpeaker": "Everybody",
+        "contextSpeaker": "Michael",
+        "contextText": "Dip it in the water so it'll slide down your gullet more easily."
+    },
+    {
+        "episode": 2,
+        "episodeName": "Dunder Mifflin Infinity",
+        "season": 4,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Himself",
+        "contextText": "Can you make that straighter?"
+    },
+    {
+        "episode": 4,
+        "episodeName": "Money",
+        "season": 4,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Himself",
+        "contextText": "And up comes the toolbar."
+    },
+    {
+        "episode": 7,
+        "episodeName": "Survivor Man",
+        "season": 4,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Himself",
+        "contextText": "That's what I said."
+    },
+    {
+        "episode": 7,
+        "episodeName": "Survivor Man",
+        "season": 4,
+        "instance": 2,
+        "twssSpeaker": "Jim",
+        "contextSpeaker": "Michael",
+        "contextText": "I say things like that to lighten the tension when things sort of get hard."
+    },
+    {
+        "episode": 8,
+        "episodeName": "The Deposition",
+        "season": 4,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Himself",
+        "contextText": "Come again?"
+    },
+    {
+        "episode": 8,
+        "context": "Lawyer: \"And you were directly under her the entire time?\" (2×)",
+        "episodeName": "The Deposition",
+        "season": 4,
+        "instance": 1,
+        "twssSpeaker": "Michael"
+    },
+    {
+        "episode": 8,
+        "context": "Reading back Michael's testimony.",
+        "episodeName": "The Deposition",
+        "season": 4,
+        "instance": 2,
+        "twssSpeaker": "Stenographer"
+    },
+    {
+        "episode": 9,
+        "episodeName": "Dinner Party",
+        "season": 4,
+        "instance": 2,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Jan",
+        "contextText": "Well, you are hardly my first!"
+    },
+    {
+        "episode": 12,
+        "episodeName": "Did I Stutter?",
+        "season": 4,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Dwight",
+        "contextText": "Force it in as deep as you can."
+    },
+    {
+        "episode": 14,
+        "episodeName": "Goodbye, Toby#",
+        "season": 4,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Holly",
+        "contextText": "It was easy to get in but impossible to rise up."
+    },
+    {
+        "episode": 1,
+        "episodeName": "Weight Loss#",
+        "season": 5,
+        "instance": 1,
+        "twssSpeaker": "Jim",
+        "contextSpeaker": "Dwight",
+        "contextText": "Hold it in your mouth if you can't swallow."
+    },
+    {
+        "episode": 1,
+        "episodeName": "Weight Loss*",
+        "season": 5,
+        "instance": 2,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Jim",
+        "contextText": "It's gonna be tight."
+    },
+    {
+        "episode": 4,
+        "episodeName": "Crime Aid",
+        "season": 5,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Himself",
+        "contextText": "It squeaks when you bang it."
+    },
+    {
+        "episode": 5,
+        "episodeName": "Employee Transfer",
+        "season": 5,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Holly",
+        "contextText": "Don't make it harder than it needs to be."
+    },
+    {
+        "episode": 6,
+        "episodeName": "Customer Survey",
+        "season": 5,
+        "instance": 1,
+        "twssSpeaker": "Pam",
+        "contextSpeaker": "Kelly",
+        "contextText": "Dwight, get out of my nook!"
+    },
+    {
+        "episode": 13,
+        "episodeName": "Stress Relief^",
+        "season": 5,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Himself",
+        "contextText": "Oscar, would you reach over and touch his thing?"
+    },
+    {
+        "episode": 16,
+        "episodeName": "Golden Ticket",
+        "season": 5,
+        "instance": 1,
+        "twssSpeaker": "Dwight",
+        "contextSpeaker": "David Wallace",
+        "contextText": "This is huge."
+    },
+    {
+        "episode": 25,
+        "episodeName": "Cafe Disco#",
+        "season": 5,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Himself",
+        "contextText": "I can't force you to go down, but I can entice you."
+    },
+    {
+        "episode": 2,
+        "episodeName": "The Meeting",
+        "season": 6,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Jim",
+        "contextText": "Instead you screwed me."
+    },
+    {
+        "episode": 3,
+        "episodeName": "The Delivery",
+        "season": 6,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Jim",
+        "contextText": "Put it away."
+    },
+    {
+        "episode": 20,
+        "episodeName": "New Leads",
+        "season": 6,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Darryl",
+        "contextText": "You need to get back on top."
+    },
+    {
+        "episode": 23,
+        "episodeName": "Body Language^",
+        "season": 6,
+        "instance": 1,
+        "twssSpeaker": "Oscar",
+        "contextSpeaker": "Michael",
+        "contextText": "Oh. Eso es lo que dice, el!"
+    },
+    {
+        "episode": 26,
+        "episodeName": "Whistleblower",
+        "season": 6,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Michael",
+        "contextText": "Get it up. That's what..."
+    },
+    {
+        "episode": 6,
+        "episodeName": "Costume Contest",
+        "season": 7,
+        "instance": 1,
+        "twssSpeaker": "Dwight",
+        "contextSpeaker": "Dwight",
+        "contextText": "The trick is to do it face down with the post in your mouth."
+    },
+    {
+        "episode": 8,
+        "episodeName": "Viewing Party",
+        "season": 7,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Gabe",
+        "contextText": "Michael, you're making this harder than it has to be."
+    },
+    {
+        "episode": 9,
+        "episodeName": "WUPHF.com^",
+        "season": 7,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Himself",
+        "contextText": "Oscar is my queen. That's easy, gimme a hard one."
+    },
+    {
+        "episode": 14,
+        "episodeName": "The Seminar",
+        "season": 7,
+        "instance": 1,
+        "twssSpeaker": "David Brent",
+        "contextSpeaker": "Himself",
+        "contextText": "Comedy is a place where the mind goes to tickle itself."
+    },
+    {
+        "episode": 16,
+        "episodeName": "PDA",
+        "season": 7,
+        "instance": 1,
+        "twssSpeaker": "Holly",
+        "contextSpeaker": "Herself",
+        "contextText": "I'm not saying it won't be hard, but we can make it work."
+    },
+    {
+        "episode": 22,
+        "episodeName": "Goodbye, Michael",
+        "season": 7,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Himself",
+        "contextText": "This is going to feel so good getting this thing off my chest."
+    },
+    {
+        "episode": 5,
+        "episodeName": "Here Comes Treble",
+        "season": 9,
+        "instance": 1,
+        "twssSpeaker": "Creed",
+        "contextSpeaker": "Clark",
+        "contextText": "There's no way you guys are making this magic with just your mouths."
+    },
+    {
+        "episode": 26,
+        "episodeName": "Finale",
+        "season": 9,
+        "instance": 1,
+        "twssSpeaker": "Michael",
+        "contextSpeaker": "Dwight",
+        "contextText": "Michael, I can't believe you came."
+    }
+]
