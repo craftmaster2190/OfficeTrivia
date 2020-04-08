@@ -89,12 +89,31 @@ async function main() {
         if (json.quotesDetails && json.quotesDetails.sections) {
           json.quotes = json.quotesDetails.sections
             .map((i) => i.content)[0]
-            .map((c) => c.text);
+            .map((c) => c.text)
+            .filter((i) => !!i);
 
           if (json.quotes.length === 0) {
             delete json.quotes;
           }
+
+          if (json.quotes) {
+            json.quotes = json.quotes
+              .filter((i) => !!i)
+              .map((quote) =>
+                quote.split("\n").map((quotePart) => {
+                  let [speaker, ...contents] = quotePart.split(":");
+                  let content = contents.join(":");
+                  if (content) {
+                    return { speaker, content };
+                  }
+                  return { content: quotePart };
+                })
+              );
+          }
         }
+
+        delete json.episodeDetails;
+        delete json.quotesDetails;
 
         if (!fs.existsSync(`office_json/episodes_3`)) {
           await mkdir(`office_json/episodes_3`);
