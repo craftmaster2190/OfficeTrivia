@@ -1,0 +1,73 @@
+:host {
+  position: relative;
+  width: 100%;
+}
+
+@media only screen and (min-width: 550px) {
+  header {
+    background-image: url("/assets/trivia-header.png");
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+}
+
+@media only screen and (max-width: 549px) {
+  header::after {
+    content: "Ultimate Fan Trivia";
+    color: white;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+header {
+  background-color: black;
+  border-radius: 5px;
+  position: fixed;
+  top: 0;
+  left: 10px;
+  right: 10px;
+  z-index: 100;
+  height: 50px;
+
+  .header-left,
+  .header-right {
+    background-size: 100px 50px;
+    background-image: url("/assets/logo.png");
+    height: 50px;
+    width: 50px;
+
+    position: absolute;
+    top: 0;
+  }
+
+  .header-left {
+    left: 0;
+  }
+
+  .header-right {
+    right: 0;
+    background-position: 50px 0, 0 -50px;
+  }
+}
+
+.header-underlay-block {
+  height: 70px;
+}
+
+.beta {
+  position: fixed;
+  height: 50px;
+  top: 50px;
+  left: 0;
+  z-index: 100;
+}
+
+@media only screen and (min-width: 800px) {
+  .beta {
+    height: 80px;
+  }
+}

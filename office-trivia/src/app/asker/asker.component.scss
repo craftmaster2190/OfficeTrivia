@@ -1,0 +1,39 @@
+.correct-streak {
+  text-align: right;
+  padding: 8px;
+}
+
+.question-context {
+}
+
+.question-text ::ng-deep {
+  .center {
+    font-weight: bold;
+    margin: 8px;
+  }
+}
+
+.answer {
+  margin: 12px;
+  padding: 8px;
+  border: 1px solid black;
+  border-radius: 6px;
+  cursor: pointer;
+
+  .answer-index {
+    float: left;
+    margin-right: 8px;
+
+    border-radius: 4px;
+    color: white;
+    background-color: black;
+    width: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.feedback {
+  margin-top: 16px;
+}

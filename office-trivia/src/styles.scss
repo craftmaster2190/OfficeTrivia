@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~materialize-css/sass/components/color-variables";
+@import "~materialize-css/sass/components/color-classes";
+@import "~materialize-css/sass/components/variables";
+@import "~materialize-css/sass/components/normalize";
+@import "~materialize-css/sass/components/grid.scss";
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.flow-text {
+  line-height: 1.4;
+}

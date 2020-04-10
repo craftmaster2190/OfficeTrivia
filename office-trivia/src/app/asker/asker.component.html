@@ -1,0 +1,59 @@
+<div class="correct-streak">Correct Streak: {{ correctStreak }}</div>
+
+<mat-spinner *ngIf="state === 'LOADING'"></mat-spinner>
+
+<div class="flow-text" *ngIf="state === 'ASKING'">
+  <mat-card>
+    <mat-card-title
+      class="question-context"
+      [innerHTML]="question.context"
+    ></mat-card-title>
+    <div class="question-text" [innerHTML]="question.questionText"></div>
+  </mat-card>
+  <div
+    class="answer"
+    *ngFor="let answer of question.shuffledAnswers; let i = index"
+    (click)="answerIndex(i)"
+  >
+    <div class="answer-index">{{ i | answerIndex }}</div>
+    <div class="answer-text" [innerHTML]="answer"></div>
+  </div>
+</div>
+
+<div *ngIf="state === 'WRONG'">
+  Incorrect! The correct answer was:
+  <div>
+    <b>{{ question.correctAnswer }}</b>
+  </div>
+</div>
+<div *ngIf="state === 'RIGHT'">
+  That is correct!!!
+</div>
+
+<div class="feedback" *ngIf="state === 'WRONG' || state === 'RIGHT'">
+  <div>How was the question?</div>
+  <div>
+    <mat-button-toggle-group
+      [value]="questionDifficulty"
+      (change)="questionDifficulty = $event.value"
+    >
+      <mat-button-toggle value="IMPOSSIBLE">Impossible</mat-button-toggle>
+      <mat-button-toggle value="DIFFICULT">Difficult</mat-button-toggle>
+      <mat-button-toggle value="JUST_RIGHT">Just right</mat-button-toggle>
+      <mat-button-toggle value="EASY">Easy</mat-button-toggle>
+      <mat-button-toggle value="OBVIOUS">Obvious / Broken</mat-button-toggle>
+    </mat-button-toggle-group>
+  </div>
+  <div>
+    <mat-form-field>
+      <mat-label>Comment</mat-label>
+      <textarea matInput [(ngModel)]="feedbackComment"></textarea>
+    </mat-form-field>
+  </div>
+
+  <div>
+    <button mat-raised-button (click)="onClickNextQuestion()">
+      Next Question
+    </button>
+  </div>
+</div>
