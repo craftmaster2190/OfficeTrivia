@@ -37,3 +37,10 @@
 .feedback {
   margin-top: 16px;
 }
+
+:host
+  ::ng-deep
+  .mat-button-toggle-appearance-standard
+  .mat-button-toggle-label-content {
+  line-height: 32px;
+}
