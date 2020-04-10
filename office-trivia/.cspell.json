@@ -1,0 +1,8 @@
+{
+  "minWordLength": 1,
+  "allowCompoundWords": true,
+  "dictionaries": ["project"],
+  "dictionaryDefinitions": [
+    { "name": "project", "path": "./project-dictionary.txt" }
+  ]
+}

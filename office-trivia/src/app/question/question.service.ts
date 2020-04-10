@@ -27,7 +27,7 @@ export class QuestionService {
   constructor(http: HttpClient) {
     http
       .get<Array<any>>("/assets/episodes.json")
-      .subscribe((epsiodes) => this.episodes.next(epsiodes));
+      .subscribe((episodes) => this.episodes.next(episodes));
     http
       .get<Array<any>>("/assets/twss.json")
       .subscribe((twss) => this.twss.next(twss));
