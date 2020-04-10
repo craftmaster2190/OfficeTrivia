@@ -9,7 +9,9 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "spellcheck": "cspell \"src/**/*.{ts,js,html,scss}\" || exit 0",
-    "format": "prettier --write \"src/**/*.{ts,js,json,html,css,scss}\" || exit 0"
+    "format": "prettier --write \"src/**/*.{ts,js,json,html,css,scss}\" || exit 0",
+    "deploy": "ng build --prod",
+    "postdeploy": "aws s3 sync ./dist/office-trivia/ s3://office-trivia/  --profile office-trivia --delete"
   },
   "husky": {
     "hooks": {
@@ -29,6 +31,7 @@
     "@angular/platform-browser": "~9.0.0",
     "@angular/platform-browser-dynamic": "~9.0.0",
     "@angular/router": "~9.0.0",
+    "canvas-confetti": "^1.2.0",
     "materialize-css": "^1.0.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.11.1",

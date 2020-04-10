@@ -11,6 +11,8 @@ export interface Question {
   questionText: string;
   correctAnswer: string;
   wrongAnswers: Array<string>;
+
+  correctAnswerContext: string;
 }
 
 export interface ShuffledQuestion extends Question {
@@ -102,6 +104,8 @@ export class QuestionService {
           <div class="suffix">What is also happening?</div>`,
           correctAnswer: answerStoryline,
           wrongAnswers: storylinesFromSameSeason,
+
+          correctAnswerContext: `The episode was: S${targetEpisode.season}E${targetEpisode.episode} ${targetEpisode.title}`,
         };
       })
     );

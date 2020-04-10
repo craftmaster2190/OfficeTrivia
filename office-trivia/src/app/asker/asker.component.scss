@@ -1,6 +1,7 @@
 .correct-streak {
   text-align: right;
   padding: 8px;
+  font-size: 200%;
 }
 
 .question-context {
@@ -16,9 +17,13 @@
 .answer {
   margin: 12px;
   padding: 8px;
-  border: 1px solid black;
+  border: 3px solid black;
   border-radius: 6px;
-  cursor: pointer;
+  transition: all 600ms;
+
+  &.cursor {
+    cursor: pointer;
+  }
 
   .answer-index {
     float: left;
@@ -32,10 +37,45 @@
     justify-content: center;
     align-items: center;
   }
+
+  &.selected {
+    // border-width: 5px;
+
+    &.selected-incorrect {
+      border-color: red;
+
+      .answer-index {
+        background-color: red;
+      }
+    }
+  }
+
+  &.correct {
+    // border-width: 5px;
+    border-color: limegreen;
+    .answer-index {
+      background-color: limegreen;
+    }
+  }
+}
+
+.notice-correct {
+  color: limegreen;
+  font-size: 200%;
+}
+
+.notice-incorrect {
+  color: red;
+  font-size: 200%;
 }
 
 .feedback {
   margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+:host {
+  display: block;
 }
 
 :host
@@ -43,4 +83,9 @@
   .mat-button-toggle-appearance-standard
   .mat-button-toggle-label-content {
   line-height: 32px;
+}
+
+.correct-answer-context {
+  font-size: 150%;
+  font-weight: bold;
 }

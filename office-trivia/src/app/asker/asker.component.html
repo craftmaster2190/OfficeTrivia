@@ -2,7 +2,7 @@
 
 <mat-spinner *ngIf="state === 'LOADING'"></mat-spinner>
 
-<div class="flow-text" *ngIf="state === 'ASKING'">
+<div class="flow-text" *ngIf="question">
   <mat-card>
     <mat-card-title
       class="question-context"
@@ -10,24 +10,36 @@
     ></mat-card-title>
     <div class="question-text" [innerHTML]="question.questionText"></div>
   </mat-card>
-  <div
-    class="answer"
-    *ngFor="let answer of question.shuffledAnswers; let i = index"
-    (click)="answerIndex(i)"
-  >
-    <div class="answer-index">{{ i | answerIndex }}</div>
-    <div class="answer-text" [innerHTML]="answer"></div>
-  </div>
-</div>
 
-<div *ngIf="state === 'WRONG'">
-  Incorrect! The correct answer was:
-  <div>
-    <b>{{ question.correctAnswer }}</b>
+  <div *ngIf="state === 'WRONG'" class="incorrect-container flow-text">
+    <span class="notice-incorrect">Incorrect!</span>
   </div>
-</div>
-<div *ngIf="state === 'RIGHT'">
-  That is correct!!!
+
+  <div *ngIf="state === 'RIGHT'" class="correct-container flow-text">
+    <span class="notice-correct">Correct!!!</span>
+  </div>
+
+  <div
+    *ngIf="state === 'WRONG' || state === 'RIGHT'"
+    class="correct-answer-context"
+  >
+    {{ question.correctAnswerContext }}
+  </div>
+
+  <ng-template [ngIf]="state !== 'LOADING'">
+    <div
+      class="answer"
+      *ngFor="let answer of question.shuffledAnswers; let i = index"
+      (click)="state === 'ASKING' && answerIndex(i)"
+      [class.correct]="state !== 'ASKING' && isCorrect(i)"
+      [class.selected]="state !== 'ASKING' && i === selectedIndex"
+      [class.selected-incorrect]="state === 'WRONG'"
+      [class.cursor]="state === 'ASKING'"
+    >
+      <div class="answer-index">{{ i | answerIndex }}</div>
+      <div class="answer-text" [innerHTML]="answer"></div>
+    </div>
+  </ng-template>
 </div>
 
 <div class="feedback" *ngIf="state === 'WRONG' || state === 'RIGHT'">
@@ -38,9 +50,23 @@
       (change)="questionDifficulty = $event.value"
     >
       <mat-button-toggle value="IMPOSSIBLE">Impossible</mat-button-toggle>
+    </mat-button-toggle-group>
+  </div>
+  <div>
+    <mat-button-toggle-group
+      [value]="questionDifficulty"
+      (change)="questionDifficulty = $event.value"
+    >
       <mat-button-toggle value="DIFFICULT">Difficult</mat-button-toggle>
       <mat-button-toggle value="JUST_RIGHT">Just right</mat-button-toggle>
       <mat-button-toggle value="EASY">Easy</mat-button-toggle>
+    </mat-button-toggle-group>
+  </div>
+  <div>
+    <mat-button-toggle-group
+      [value]="questionDifficulty"
+      (change)="questionDifficulty = $event.value"
+    >
       <mat-button-toggle value="OBVIOUS">Obvious / Broken</mat-button-toggle>
     </mat-button-toggle-group>
   </div>
