@@ -111,11 +111,13 @@ export class AskerComponent implements OnInit {
   }
 
   onClickNextQuestion() {
-    if (this.questionDifficulty || this.feedbackComment) {
-      this.submitFeedback();
-    }
+    setTimeout(() => {
+      if (this.questionDifficulty || this.feedbackComment) {
+        this.submitFeedback();
+      }
 
-    this.loadQuestion();
+      this.loadQuestion();
+    }, 150);
   }
 
   private submitFeedback() {}
@@ -140,13 +142,13 @@ export class AskerComponent implements OnInit {
 
         var particleCount = 150 * (timeLeft / duration);
         // since particles fall down, start a bit higher than random
-        confetti.create(null, { resize: true })(
+        confetti.create(null, { resize: true, useWorker: true })(
           Object.assign({}, defaults, {
             particleCount,
             origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 },
           })
         );
-        confetti.create(null, { resize: true })(
+        confetti.create(null, { resize: true, useWorker: true })(
           Object.assign({}, defaults, {
             particleCount,
             origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 },

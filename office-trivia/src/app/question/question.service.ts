@@ -19,6 +19,44 @@ export interface ShuffledQuestion extends Question {
   shuffledAnswers: Array<string>;
 }
 
+export class EpisodeExtractor {
+  public readonly targetEpisode;
+
+  constructor(private readonly episodes: Array<any>) {
+    this.targetEpisode = randomElement(episodes);
+  }
+
+  getStorylines() {
+    if ((this.targetEpisode?.storylines?.length || 0) < 2) {
+      throw new Error(
+        "Only one storyline in episode:" + JSON.stringify(this.targetEpisode)
+      );
+    }
+
+    const targetStoryLines: Array<string> = shuffle(
+      this.targetEpisode.storylines.slice()
+    );
+
+    return shuffle(targetStoryLines);
+  }
+
+  getStorylinesFromSameSeason() {
+    const storylinesFromSameSeason: Array<string> = shuffle(
+      flatten(
+        this.episodes
+          .filter(
+            (episode) =>
+              episode.season === this.targetEpisode.season &&
+              episode !== this.targetEpisode
+          )
+          .map((episode) => episode.storylines)
+      )
+    );
+
+    return storylinesFromSameSeason;
+  }
+}
+
 @Injectable({
   providedIn: "root",
 })
@@ -36,7 +74,7 @@ export class QuestionService {
   }
 
   protected get(): Observable<Question> {
-    return randomElement([this.inWhichEpisodeDidStorylineHappen])
+    return randomElement([this.forSeasonInWhichEpisodeDidStorylineHappen])
       .bind(this)()
       .pipe(
         catchError((error) => {
@@ -60,44 +98,22 @@ export class QuestionService {
   }
 
   // In which {Episode} did {Storyline, Trivia, Quote, ThatsWhatSheSaid, ColdOpen} happen?
-  private inWhichEpisodeDidStorylineHappen(): Observable<Question> {
+  private forSeasonInWhichEpisodeDidStorylineHappen(): Observable<Question> {
     return this.episodes.pipe(
-      map((episodes) => {
-        const targetEpisode = randomElement(episodes);
-
-        if ((targetEpisode?.storylines?.length || 0) < 2) {
-          throw new Error(
-            "Only one storyline in episode:" + JSON.stringify(targetEpisode)
-          );
-        }
-
-        const targetStoryLines: Array<string> = shuffle(
-          targetEpisode.storylines.slice()
-        );
-
+      map((episodes) => new EpisodeExtractor(episodes)),
+      map((extractor) => {
         const [
           questionStoryline,
           answerStoryline,
-          ...ignored
-        ] = targetStoryLines;
+        ] = extractor.getStorylines().slice(0, 2);
 
-        const storylinesFromSameSeason: Array<string> = shuffle(
-          flatten(
-            episodes
-              .filter(
-                (episode) =>
-                  episode.season === targetEpisode.season &&
-                  episode !== targetEpisode
-              )
-              .map((episode) => episode.storylines)
-          )
-        );
-
-        storylinesFromSameSeason.length = 3;
+        const storylinesFromSameSeason = extractor
+          .getStorylinesFromSameSeason()
+          .slice(0, 3);
 
         return {
           id: Math.random(),
-          context: `In Season ${targetEpisode.season}`,
+          context: `In Season ${extractor.targetEpisode.season}`,
 
           questionText: `<div class="prefix">In the episode where this is happening:</div>
           <div class="center">${questionStoryline}</div>
@@ -105,7 +121,7 @@ export class QuestionService {
           correctAnswer: answerStoryline,
           wrongAnswers: storylinesFromSameSeason,
 
-          correctAnswerContext: `The episode was: S${targetEpisode.season}E${targetEpisode.episode} ${targetEpisode.title}`,
+          correctAnswerContext: `The episode was: S${extractor.targetEpisode.season}E${extractor.targetEpisode.episode} ${extractor.targetEpisode.title}`,
         };
       })
     );

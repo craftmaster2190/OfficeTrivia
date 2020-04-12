@@ -89,3 +89,14 @@
   font-size: 150%;
   font-weight: bold;
 }
+
+@media screen and (min-width: 500px) {
+  .difficulty-buttons {
+    display: inline-block;
+  }
+}
+
+.comment-field,
+.next-question-button {
+  width: 100%;
+}

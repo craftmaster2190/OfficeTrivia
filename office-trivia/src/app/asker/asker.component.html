@@ -45,40 +45,46 @@
 <div class="feedback" *ngIf="state === 'WRONG' || state === 'RIGHT'">
   <div>How was the question?</div>
   <div>
-    <mat-button-toggle-group
-      [value]="questionDifficulty"
-      (change)="questionDifficulty = $event.value"
-    >
-      <mat-button-toggle value="IMPOSSIBLE">Impossible</mat-button-toggle>
-    </mat-button-toggle-group>
+    <div class="difficulty-buttons">
+      <mat-button-toggle-group
+        [value]="questionDifficulty"
+        (change)="questionDifficulty = $event.value"
+      >
+        <mat-button-toggle value="IMPOSSIBLE">Impossible</mat-button-toggle>
+      </mat-button-toggle-group>
+    </div>
+    <div class="difficulty-buttons">
+      <mat-button-toggle-group
+        [value]="questionDifficulty"
+        (change)="questionDifficulty = $event.value"
+      >
+        <mat-button-toggle value="DIFFICULT">Difficult</mat-button-toggle>
+        <mat-button-toggle value="JUST_RIGHT">Just right</mat-button-toggle>
+        <mat-button-toggle value="EASY">Easy</mat-button-toggle>
+      </mat-button-toggle-group>
+    </div>
+    <div class="difficulty-buttons">
+      <mat-button-toggle-group
+        [value]="questionDifficulty"
+        (change)="questionDifficulty = $event.value"
+      >
+        <mat-button-toggle value="OBVIOUS">Obvious / Broken</mat-button-toggle>
+      </mat-button-toggle-group>
+    </div>
   </div>
   <div>
-    <mat-button-toggle-group
-      [value]="questionDifficulty"
-      (change)="questionDifficulty = $event.value"
-    >
-      <mat-button-toggle value="DIFFICULT">Difficult</mat-button-toggle>
-      <mat-button-toggle value="JUST_RIGHT">Just right</mat-button-toggle>
-      <mat-button-toggle value="EASY">Easy</mat-button-toggle>
-    </mat-button-toggle-group>
-  </div>
-  <div>
-    <mat-button-toggle-group
-      [value]="questionDifficulty"
-      (change)="questionDifficulty = $event.value"
-    >
-      <mat-button-toggle value="OBVIOUS">Obvious / Broken</mat-button-toggle>
-    </mat-button-toggle-group>
-  </div>
-  <div>
-    <mat-form-field>
+    <mat-form-field class="comment-field">
       <mat-label>Comment</mat-label>
       <textarea matInput [(ngModel)]="feedbackComment"></textarea>
     </mat-form-field>
   </div>
 
   <div>
-    <button mat-raised-button (click)="onClickNextQuestion()">
+    <button
+      mat-raised-button
+      (click)="onClickNextQuestion()"
+      class="next-question-button"
+    >
       Next Question
     </button>
   </div>
