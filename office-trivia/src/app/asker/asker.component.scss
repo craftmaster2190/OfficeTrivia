@@ -1,3 +1,9 @@
+.loading {
+  display: flex;
+  justify-content: center;
+  margin-top: 35%;
+}
+
 .correct-streak {
   text-align: right;
   padding: 8px;
@@ -99,4 +105,39 @@
 .comment-field,
 .next-question-button {
   width: 100%;
+}
+
+::ng-deep .quotes {
+  .quote-speaker {
+    display: inline;
+    font-style: italic;
+
+    &::after {
+      content: ":";
+      padding-right: 4px;
+      font-style: normal;
+    }
+
+    .blank {
+      display: inline;
+      &::before {
+        content: "________";
+        display: inline;
+      }
+    }
+  }
+
+  .quote-content {
+    display: inline;
+    font-weight: 600;
+  }
+}
+
+.fade-in {
+  opacity: 1;
+  transition: 800ms;
+
+  &.fade-in-start {
+    opacity: 0;
+  }
 }

@@ -83,11 +83,12 @@ export class AskerComponent implements OnInit {
     this.questionService
       .getShuffled()
       .pipe(
-        debounce(() => interval(1000)),
+        debounce(() => interval(500)),
         tap(() => (this.state = AskerState.ASKING))
       )
       .subscribe((question) => {
         this.question = question;
+        console.log("Question:", question);
       });
   }
 
@@ -122,39 +123,41 @@ export class AskerComponent implements OnInit {
 
   private submitFeedback() {}
 
-  async onCorrectThrowConfetti() {
-    this.ngZone.runOutsideAngular(() => {
-      var duration = 1800;
-      var animationEnd = Date.now() + duration;
-      var defaults = {
-        startVelocity: 30,
-        spread: 360,
-        ticks: 60,
-        zIndex: 1000,
-      };
+  private onCorrectThrowConfetti() {
+    setTimeout(() => {
+      this.ngZone.runOutsideAngular(() => {
+        var duration = 1800;
+        var animationEnd = Date.now() + duration;
+        var defaults = {
+          startVelocity: 30,
+          spread: 360,
+          ticks: 60,
+          zIndex: 1000,
+        };
 
-      var interval = setInterval(function () {
-        var timeLeft = animationEnd - Date.now();
+        var interval = setInterval(function () {
+          var timeLeft = animationEnd - Date.now();
 
-        if (timeLeft <= 0) {
-          return clearInterval(interval);
-        }
+          if (timeLeft <= 0) {
+            return clearInterval(interval);
+          }
 
-        var particleCount = 150 * (timeLeft / duration);
-        // since particles fall down, start a bit higher than random
-        confetti.create(null, { resize: true, useWorker: true })(
-          Object.assign({}, defaults, {
-            particleCount,
-            origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 },
-          })
-        );
-        confetti.create(null, { resize: true, useWorker: true })(
-          Object.assign({}, defaults, {
-            particleCount,
-            origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 },
-          })
-        );
-      }, 350);
-    });
+          var particleCount = 150 * (timeLeft / duration);
+          // since particles fall down, start a bit higher than random
+          confetti.create(null, { resize: true, useWorker: true })(
+            Object.assign({}, defaults, {
+              particleCount,
+              origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 },
+            })
+          );
+          confetti.create(null, { resize: true, useWorker: true })(
+            Object.assign({}, defaults, {
+              particleCount,
+              origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 },
+            })
+          );
+        }, 350);
+      });
+    }, 16);
   }
 }

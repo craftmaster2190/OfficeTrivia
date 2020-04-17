@@ -28,3 +28,7 @@ export function concat<T>(arrayA: Array<T>, arrayB: Array<T>): Array<T> {
 export function flatten<T>(arrayOfArrays: Array<Array<T>>): Array<T> {
   return arrayOfArrays.reduce(concat);
 }
+
+export function truthy<T>(value: T) {
+  return !!value;
+}
