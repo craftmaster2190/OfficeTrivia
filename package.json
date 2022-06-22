@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "got": "^10.7.0",
+    "got": "^11.8.5",
     "rimraf": "^3.0.2",
     "xml2json": "^0.12.0"
   }
